@@ -14,13 +14,14 @@
 
 body.dark-theme {
   /* dark theme colors */
-  --background: #292a2d;
-  --background-secondary: #3b3d42;
-  --header: #252627;
-  --color: #a9a9b3;
-  --color-secondary: #73747b;
+  --background: #1E1C31;
+  --background-secondary: #2D2B40;
+  --header: #100E23;
+  --color: #CBE3E7;
+  --color-secondary: #585273;
   --border-color: #4a4b50;
 }
+
 
 @custom-media --phone (width < 684px);
 @custom-media --tablet (width < 900px);
